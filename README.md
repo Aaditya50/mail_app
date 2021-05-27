@@ -7,25 +7,26 @@ We created a webapp using Django framework and Postgres Database. are using djan
 
 Requirements:
 
-Framerwork/Language	Version
+  Framerwork/Language	Version
 
-Django	  3.0/3.0+
+  Django	  3.0/3.0+
 
-Python	  3.3+
+  Python	  3.3+
 
-Postgreas	  9.5+
+  Postgreas	  9.5+
 
-Installation:
+  Installation:
 
 Step 1:
 
-clone the repositoiry And install imaplib library.
+  clone the repositoiry And install imaplib library.
 
 Step 2:
 
-Run the python manage.py runserver after installing django and postgres.
+  Run the python manage.py runserver after installing django and postgres.
 
 Step #:
-The WebApp is ready to use
+  
+  The WebApp is ready to use
 
 Soon will be Updated: Docker Container of this web App
